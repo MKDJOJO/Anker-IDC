@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "Anker IDC"
-  text: "Anker IDC 工作指南"
-  tagline: My great project tagline
+  text: "Anker IDC 品牌指南"
+  tagline: Anker 视频制作规范指南
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 品牌规范资料
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 品牌类目分类
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 品牌字体
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 品牌色
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 品牌片尾
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
