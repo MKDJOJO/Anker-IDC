@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Anker IDC",
   description: "Anker IDC 工作指南",
+  base: '/Anker-IDC/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
