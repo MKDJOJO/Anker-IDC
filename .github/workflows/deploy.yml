@@ -12,6 +12,7 @@ on:
   workflow_dispatch:
 
 # 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+## 这里是VitePress 的自动化测试项目，所以不需要额外的权限，重点是需要配置好设定。
 permissions:
   contents: read
   pages: write
